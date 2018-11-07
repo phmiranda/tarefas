@@ -1,0 +1,10 @@
+{
+  "name": "phmiranda/tarefas" ,
+  "description": "sistema de administração de tarefas desenvolvido durante",
+  "require": {
+
+  },
+  "require-dev": {
+    
+  }
+}
