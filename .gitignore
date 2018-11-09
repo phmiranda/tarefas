@@ -5,6 +5,7 @@ nbproject/
 
 # comentários.
 config/config.ini
+public/default.php
 assets/database/Conexao.php
 
 # comentários.
