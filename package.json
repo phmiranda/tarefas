@@ -1,7 +1,23 @@
 {
   "name": "tarefas",
   "version": "1.0.0",
-  "dependencies": {
-    
-  }
+  "description": "desenvolvimento de um administrador de tarefas simplificado para estudo do PHP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phmiranda/tarefas.git"
+  },
+  "keywords": [
+    "cdc",
+    "php"
+  ],
+  "author": "Pedro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phmiranda/tarefas/issues"
+  },
+  "homepage": "https://github.com/phmiranda/tarefas#readme"
 }
